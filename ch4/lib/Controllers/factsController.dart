@@ -1,4 +1,4 @@
-import 'package:ch4/Models/constant/endpoints.dart';
+import 'package:ch4/Routes/endpoints.dart';
 import 'package:get/get.dart';
 
 import '../Models/fact.dart';
